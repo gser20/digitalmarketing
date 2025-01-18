@@ -1,5 +1,3 @@
-# main.py
-
 from clients import add_client, get_clients
 from campaigns import create_campaign, track_campaign_performance, generate_report
 
